@@ -1,3 +1,6 @@
 Project to travel to Mars.
 
 need to take some coffee beans to the trip.
+
+The first step to have success is look for a spacecraft.
+
