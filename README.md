@@ -1,5 +1,5 @@
 # Release Candidate session of Git
 
-For this Git session we will not have the help of Wolfman and Dracula.
+For this Git session we will not have the help of Raniere Silva.
 
-Raniere and Silva are going to Mars to fight.
+Raniere Silva are going to Mars to fight.
